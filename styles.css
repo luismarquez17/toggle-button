@@ -73,3 +73,9 @@ body{
 .checkbox:checked::after{
     background: #f8f8f8;
 }
+
+.hola{
+    background-color: aqua;
+    max-width: 10px;
+    font-size: 5em;
+}
